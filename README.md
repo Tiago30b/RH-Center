@@ -1,7 +1,7 @@
 ﻿Sistema RH Center 🖥️
 
-![exemplo](https://github.com/user-attachments/assets/80f264da-78b9-425a-a69c-42bb35344a6a)
- 
+ ![exemplo](https://github.com/user-attachments/assets/ee21af5c-ae13-4559-959b-ea2627ab509f)
+
 O RH Center é uma aplicação de linha de comando desenvolvida em Python para facilitar o gerenciamento de funcionários em pequenas empresas.
 O sistema permite o cadastro de novos colaboradores, a persistência de dados em arquivos CSV e a geração de relatórios estatísticos.
 
