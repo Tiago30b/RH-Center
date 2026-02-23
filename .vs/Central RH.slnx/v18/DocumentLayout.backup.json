@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Central RH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tiago\\OneDrive\\Documentos\\Central RH\\RH Center.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH Center.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tiago\\OneDrive\\Documentos\\Central RH\\funcionarios.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:funcionarios.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RH Center.py",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Central RH\\RH Center.py",
+              "RelativeDocumentMoniker": "RH Center.py",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Central RH\\RH Center.py",
+              "RelativeToolTip": "RH Center.py",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAowHYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-12T16:55:44.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "funcionarios.csv",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\Central RH\\funcionarios.csv",
+              "RelativeDocumentMoniker": "funcionarios.csv",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\Central RH\\funcionarios.csv",
+              "RelativeToolTip": "funcionarios.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-02-12T17:10:26.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
